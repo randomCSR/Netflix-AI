@@ -1,14 +1,15 @@
-SET-UP
+#SET-UP
 npx create-react-app
 tailwind CSS
 
-Features
+#Features
 
 - Home page( without Authentication)
 
-  - header
-  - sign-in
-  - background
+  - header with logo
+  - sign-in & sign up form
+  - background Image
+  - useRef hook for taking the input value form email and password input
 
 - My feed page (after Authentication)
 
